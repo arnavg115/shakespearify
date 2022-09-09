@@ -8,4 +8,4 @@
 
 ---
 
-A model trained on a custom dataset [dataset](https://www.kaggle.com/datasets/garnavaurha/shakespearify) to translate modern english text to old shakespearean style english. The model was trained using [simplet5](https://github.com/Shivanandroy/simpleT5).
+A model trained on a custom [dataset](https://www.kaggle.com/datasets/garnavaurha/shakespearify) to translate modern english text to old shakespearean style english. The model was trained using [simplet5](https://github.com/Shivanandroy/simpleT5).
